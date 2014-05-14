@@ -9,5 +9,5 @@ function start()
       $data[] = array('name' => substr(basename($file), 0, -3),
 		      'blob' => base64_encode(file_get_contents($file)));
     }
-  file_put_contents('../concat.js', 'printIcons(' . json_encode($data)) . ');' . "\n";
+  file_put_contents('../concat.js', 'printIcons(' . json_encode($data) . ');' . "\n");
 }
