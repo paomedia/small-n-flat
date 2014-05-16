@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(0 -1028.4)">
+  <path d="m12 5v4h-12v3 1 4h12v4l12-8v-1h-1.5l-10.5-7z" transform="translate(0 1028.4)" fill="#e67e22"/>
+  <path d="m12 4v4h-12v8h12v4l12-8-12-8z" transform="translate(0 1028.4)" fill="#f1c40f"/>
+  <path d="m0 1040.4v4h12v4l12-8h-24z" fill="#f39c12"/>
+ </g>
+</svg>
