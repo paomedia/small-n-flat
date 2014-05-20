@@ -3,11 +3,8 @@
  <g transform="translate(0 -1028.4)">
   <path d="m21 1035.4v4 4 6c0 1.1-0.895 2-2 2h-14c-1.1046 0-2-0.9-2-2v-6-4-4h18z" fill="#7f8c8d"/>
   <path d="m3 1034.4v4 4 6c0 1.1 0.8954 2 2 2h14c1.105 0 2-0.9 2-2v-6-4-4h-18z" fill="#95a5a6"/>
-  <path d="m3 1034.4v1 4 6c0 1.1 0.8954 2 2 2h14c1.105 0 2-0.9 2-2v-6-4-1h-18z" fill="#bdc3c7"/>
-  <path d="m3 1042.4v-1-4-6c0-1.1 0.8954-2 2-2h14c1.105 0 2 0.9 2 2v6 4 1h-18z" fill="#bdc3c7"/>
-  <path d="m16 21.5a0.5 1.5 0 1 1 0 -0.016l-0.5 0.016z" transform="matrix(3 0 0 1 -28 1027.4)" fill="#7f8c8d"/>
-  <path d="m16 21.5a0.5 1.5 0 1 1 0 -0.016l-0.5 0.016z" transform="matrix(3 0 0 1 -31 1027.4)" fill="#7f8c8d"/>
-  <path d="m14 20.5a0.5 0.5 0 1 1 0 -0.005l-0.5 0.005z" transform="translate(2 1028.4)" fill="#f1c40f"/>
-  <path d="m14 20.5a0.5 0.5 0 1 1 0 -0.005l-0.5 0.005z" transform="translate(5 1028.4)" fill="#2ecc71"/>
+  <rect height="3.9998" width="5" y="1046.4" x="15" fill="#7f8c8d"/>
+  <path d="m5 1c-1.1046 0-2 0.8954-2 2v3 1 2 2 2 1 3c0 1.105 0.8954 2 2 2h14c1.105 0 2-0.895 2-2v-3-3-4-1-3c0-1.1046-0.895-2-2-2h-14z" transform="translate(0 1028.4)" fill="#bdc3c7"/>
+  <rect transform="translate(0 1028.4)" height="1" width="3" y="20" x="16" fill="#f1c40f"/>
  </g>
 </svg>
