@@ -24,17 +24,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1357"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1150"
      id="namedview4705"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="1.7383042"
      inkscape:cx="-81.740112"
      inkscape:cy="27.106787"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4137"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <defs
      id="defs4" />
   <metadata

@@ -27,14 +27,22 @@
      inkscape:window-width="1920"
      inkscape:window-height="1150"
      id="namedview3819"
-     showgrid="false"
-     inkscape:zoom="19.666667"
-     inkscape:cx="14.233693"
-     inkscape:cy="11.613392"
+     showgrid="true"
+     inkscape:zoom="2.4583334"
+     inkscape:cx="67.66881"
+     inkscape:cy="5.8214669"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4155"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <defs
      id="defs4" />
   <metadata
@@ -78,7 +86,7 @@
        d="M 5,1034.3622 6.46875,1039.3622 6.46875,1039.3934 7.5,1039.3934 8.53125,1035.8934 9.5625,1039.3622 9.5625,1039.3934 10.59375,1039.3934 12.0625,1034.3622 11.0625,1034.3622 10.09375,1037.6122 9.125,1034.3934 7.96875,1034.3934 7,1037.6122 6.03125,1034.3622 5,1034.3622 z"
        inkscape:connector-curvature="0"
        id="rect3048"
-       style="fill:#2980b9;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#3498db;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <rect
        width="12"
        height="1"

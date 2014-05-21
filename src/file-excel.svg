@@ -26,15 +26,23 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1150"
-     id="namedview3590"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     id="namedview3602"
+     showgrid="true"
+     inkscape:zoom="13.906434"
+     inkscape:cx="16.268619"
+     inkscape:cy="14.935406"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4173"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <defs
      id="defs4" />
   <metadata
@@ -69,13 +77,13 @@
        y="5"
        transform="translate(0,1028.3622)"
        id="rect3940"
-       style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#1abc9c;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        d="M 7,4 C 6.447715,4 6,4.4477 6,5 L 6,7 6,8 6,10 6,11 6,13 6,14 6,16 6,17 6,19 C 6,19.5523 6.447715,20 7,20 L 9,20 10,20 13,20 14,20 17,20 C 17.552285,20 18,19.5523 18,19 L 18,17 18,16 18,14 18,11 18,8 18,7 18,5 C 18,4.4477 17.552285,4 17,4 L 14,4 13,4 9,4 7,4 z M 7,5 9,5 9,7 7,7 7,5 z M 10,5 13,5 13,7 10,7 10,5 z M 14,5 17,5 17,7 14,7 14,5 z M 7,8 9,8 9,10 7,10 7,8 z M 10,8 13,8 13,10 10,10 10,8 z M 14,8 17,8 17,10 14,10 14,8 z M 7,11 9,11 9,13 7,13 7,11 z M 10,11 13,11 13,13 10,13 10,11 z M 14,11 17,11 17,13 14,13 14,11 z M 7,14 9,14 9,16 7,16 7,14 z M 10,14 13,14 13,16 10,16 10,14 z M 14,14 17,14 17,16 14,16 14,14 z M 7,17 9,17 9,19 7,19 7,17 z M 10,17 13,17 13,19 10,19 10,17 z M 14,17 17,17 17,19 14,19 14,17 z"
        inkscape:connector-curvature="0"
        transform="translate(0,1028.3622)"
        id="path2987-8"
-       style="fill:#7f8c8d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#16a085;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        d="M 21,1035.3622 15,1029.3622 15,1033.3622 C 15,1034.4668 15.89543,1035.3622 17,1035.3622 L 21,1035.3622 z"
        inkscape:connector-curvature="0"

@@ -27,14 +27,22 @@
      inkscape:window-width="1920"
      inkscape:window-height="1150"
      id="namedview3192"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     showgrid="true"
+     inkscape:zoom="19.666667"
+     inkscape:cx="-0.024306813"
+     inkscape:cy="18.606743"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4181"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <defs
      id="defs4" />
   <metadata
@@ -64,10 +72,10 @@
        id="path2987-6-0"
        style="fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
-       d="M 5,1031.3622 C 3.895431,1031.3622 3,1032.2576 3,1033.3622 L 3,1036.3622 21,1036.3622 21,1033.3622 C 21,1032.2576 20.104569,1031.3622 19,1031.3622 L 13,1031.3622 11,1031.3622 5,1031.3622 z"
-       inkscape:connector-curvature="0"
-       id="path2987-6-0-3"
-       style="fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 5 3 C 3.895431 3 3 3.8954 3 5 L 3 8 L 3 9 L 21 9 L 21 8 L 21 5 C 21 3.8954 20.104569 3 19 3 L 13 3 L 11 3 L 5 3 z "
+       transform="translate(0,1028.3622)"
+       id="path2987-6-0-3" />
     <path
        d="M 7,5.5 A 1.5,1.5 0 1 1 4,5.5 1.5,1.5 0 1 1 7,5.5 z"
        transform="translate(0.5,1028.3622)"
@@ -104,13 +112,5 @@
        inkscape:connector-curvature="0"
        id="rect3260-6-1"
        style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       width="18"
-       height="1"
-       x="3"
-       y="8"
-       transform="translate(0,1028.3622)"
-       id="rect3004"
-       style="fill:#c0392b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
 </svg>
