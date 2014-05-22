@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="light-bulb.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1150"
+     id="namedview3918"
+     showgrid="true"
+     inkscape:zoom="19.666666"
+     inkscape:cx="6.8835302"
+     inkscape:cy="3.559282"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4153"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1028.3622)"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#7f8c8d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3040"
+       sodipodi:cx="22"
+       sodipodi:cy="14"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="M 24,14 A 2,2 0 1 1 20,14 2,2 0 1 1 24,14 z"
+       transform="matrix(1,0,0,1.25,-10,1031.3622)" />
+    <path
+       style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 12,1030.3622 C 8.1340068,1030.3622 5,1033.6183 5,1037.635 5,1040.6882 8.125,1043.544 9,1045.3622 9.875,1047.1804 9,1050.3622 9,1050.3622 L 12,1049.8509 15,1050.3622 C 15,1050.3622 14.125,1047.1804 15,1045.3622 15.875,1043.544 19,1040.6882 19,1037.635 19,1033.6183 15.865994,1030.3622 12,1030.3622 z"
+       id="path2992"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssscccsss" />
+    <path
+       style="fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 12,1030.3622 C 15.865993,1030.3622 19,1033.6267 19,1037.6434 19,1040.6966 15.875,1043.544 15,1045.3622 14.125,1047.1804 15,1050.3622 15,1050.3622 L 12,1049.8622 12,1030.3622 z"
+       id="path2992-01-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#e67e22;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 9,1036.3622 8,1037.3622 12,1049.3622 16,1037.3622 15,1036.3622 14,1037.3622 13,1036.3622 12,1037.3622 11,1036.3622 10,1037.3622 9,1036.3622 z M 9,1037.3622 10,1038.3622 10.5,1037.8622 11,1037.3622 11.5,1037.8622 12,1038.3622 12.5,1037.8622 13,1037.3622 13.5,1037.8622 14,1038.3622 15,1037.3622 15.4375,1037.7997 12,1048.1122 8.5625,1037.7997 9,1037.3622 z"
+       id="path3904-5"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3020"
+       width="6"
+       height="5.0000172"
+       x="9"
+       y="1045.3622" />
+    <path
+       style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 9,1045.3622 9,1050.3622 12,1050.3622 12,1049.3622 15,1049.3622 15,1048.3622 12,1048.3622 12,1047.3622 15,1047.3622 15,1046.3622 12,1046.3622 12,1045.3622 9,1045.3622 z"
+       id="rect3095"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#7f8c8d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 9,1046.3622 9,1047.3622 12,1047.3622 12,1046.3622 9,1046.3622 z M 9,1048.3622 9,1049.3622 12,1049.3622 12,1048.3622 9,1048.3622 z"
+       id="rect3095-62"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

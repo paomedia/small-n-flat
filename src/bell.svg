@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="bell.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="9.8659419"
+     inkscape:cy="11.321547"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3134"
+       sodipodi:cx="3"
+       sodipodi:cy="3"
+       sodipodi:rx="3"
+       sodipodi:ry="3"
+       d="M 6,3 A 3,3 0 1 1 0,3 3,3 0 1 1 6,3 z"
+       transform="translate(9,1045.3622)" />
+    <path
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#f1c40f;fill-opacity:1;stroke:none;font-family:Wingdings;-inkscape-font-specification:Wingdings"
+       d="M 12 0 C 11.171573 1.4802974e-16 10.5 0.67157288 10.5 1.5 C 10.5 1.6829443 10.533792 1.8691477 10.59375 2.03125 C 9.2327438 2.2290197 8.1405622 2.7190526 7.34375 3.5 C 6.497591 4.3288 6.0937449 5.4648 6.09375 6.875 C 6.0937449 9.1143 5.6362132 11.25565 4.78125 13.28125 C 3.9262789 15.29825 2.6746776 16.96755 1 18.34375 C 1 18.78805 1.1650635 19.1753 1.5 19.5 C 1.8349352 19.8249 2.2291656 20 2.6875 20 L 5.96875 20 L 8.59375 20 L 9.0625 20 L 9.65625 20 L 10.09375 20 L 10.65625 20 L 15.40625 20 L 21.3125 20 C 21.770812 20 22.165042 19.8249 22.5 19.5 C 22.834915 19.1753 22.999977 18.78805 23 18.34375 C 21.325301 16.96755 20.073701 15.29825 19.21875 13.28125 C 18.363766 11.25565 17.906232 9.1143 17.90625 6.875 C 17.906232 5.4648 17.502386 4.3288 16.65625 3.5 C 15.859416 2.7190526 14.767238 2.2290197 13.40625 2.03125 C 13.466208 1.8691477 13.5 1.6829443 13.5 1.5 C 13.5 0.67157288 12.828427 -3.3306691e-16 12 0 z "
+       transform="translate(0,1028.3622)"
+       id="path3045" />
+    <path
+       style="fill:#e67e22;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 12,1045.3622 C 10.343146,1045.3622 9,1046.7053 9,1048.3622 9,1050.0191 10.343146,1051.3622 12,1051.3622 L 12,1045.3622 z"
+       id="path3134-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#f39c12;fill-opacity:1;stroke:none;font-family:Wingdings;-inkscape-font-specification:Wingdings"
+       d="M 12,1028.3622 C 11.171573,1028.3622 10.5,1029.0338 10.5,1029.8622 10.5,1030.0451 10.533792,1030.2312 10.59375,1030.3934 9.232744,1030.5911 8.140562,1031.0813 7.34375,1031.8622 6.497591,1032.691 6.093745,1033.827 6.09375,1035.2372 6.093745,1037.4765 5.636213,1039.6178 4.78125,1041.6434 3.926279,1043.6604 2.674678,1045.3297 1,1046.7059 1,1047.1502 1.165063,1047.5375 1.5,1047.8622 1.834935,1048.1871 2.229166,1048.3622 2.6875,1048.3622 L 5.96875,1048.3622 8.59375,1048.3622 9.0625,1048.3622 9.65625,1048.3622 10.09375,1048.3622 10.65625,1048.3622 12,1048.3622 12,1028.3622 z"
+       id="path3045-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#e67e22;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 9,1048.3622 C 9,1048.7177 9.073979,1049.0457 9.1875,1049.3622 L 14.8125,1049.3622 C 14.926021,1049.0457 15,1048.7177 15,1048.3622 L 9,1048.3622 z"
+       id="path3134-07"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
