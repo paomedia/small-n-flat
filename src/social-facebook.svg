@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="facebook.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="48.50293"
+     inkscape:cx="22.025577"
+     inkscape:cy="5.5183681"
+     inkscape:document-units="px"
+     inkscape:current-layer="text2993"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <g
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2980b9;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+       id="text2993">
+      <path
+         inkscape:connector-curvature="0"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#30497b;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         d="M 4,1031.3622 C 2.8954305,1031.3622 2,1032.2576 2,1033.3622 L 2,1049.3622 C 2,1050.4668 2.8954305,1051.3622 4,1051.3622 L 20,1051.3622 C 21.104569,1051.3622 22,1050.4668 22,1049.3622 L 22,1033.3622 C 22,1032.2576 21.104569,1031.3622 20,1031.3622 L 4,1031.3622 z"
+         id="path3243-3" />
+      <path
+         style="fill:#3b5998;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 4 2 C 2.8954305 2 2 2.8954305 2 4 L 2 20 C 2 21.104569 2.8954305 22 4 22 L 20 22 C 21.104569 22 22 21.104569 22 20 L 22 4 C 22 2.8954305 21.104569 2 20 2 L 4 2 z "
+         transform="translate(0,1028.3622)"
+         id="path3243" />
+      <path
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#30497b;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         d="M 17,1034.3622 C 14.790861,1034.3622 13,1036.1531 13,1038.3622 L 13,1041.3622 11,1041.3622 11,1044.3622 13,1044.3622 13,1051.3622 16,1051.3622 16,1044.3622 18.453581,1044.3622 19,1041.3622 16,1041.3622 16,1038.3622 C 16,1037.8099 16.447715,1037.3622 17,1037.3622 L 19,1037.3622 19,1034.3622 z"
+         id="rect3783-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccccccccccssccs" />
+      <path
+         style="fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 17,5 C 14.790861,5 13,6.7909 13,9 L 13,12 11,12 11,15 13,15 13,22 16,22 16,15 18.453581,15 19,12 16,12 16,9 C 16,8.4477 16.447715,8 17,8 L 19,8 19,5 z"
+         transform="translate(0,1028.3622)"
+         id="rect3783"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccccccccccssccs" />
+      <rect
+         style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3819"
+         width="3"
+         height="1"
+         x="13"
+         y="22"
+         transform="translate(0,1028.3622)" />
+    </g>
+  </g>
+</svg>
