@@ -60,7 +60,7 @@ function initLastRelease(releases)
 
 function printIcons(list)
 {
-    $('.browser-title h4').text('Curently ' + list.length + ' icons - and counting...');
+    $('.browser-title h4').text('Currently ' + list.length + ' icons - and counting...');
 
     for(var i in list)
     {
