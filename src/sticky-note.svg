@@ -14,7 +14,7 @@
    height="24"
    id="svg2"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="heart.svg">
+   sodipodi:docname="sticky-note.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,19 +26,18 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1150"
-     id="namedview4038"
+     id="namedview4657"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="8.5121334"
-     inkscape:cy="13.102082"
+     inkscape:zoom="19.666667"
+     inkscape:cx="32.65095"
+     inkscape:cy="4.2292023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     inkscape:snap-bbox="true">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid2984"
+       id="grid4139"
        empspacing="4"
        visible="true"
        enabled="true"
@@ -62,9 +61,24 @@
      transform="translate(0,-1028.3622)"
      id="layer1">
     <path
-       style="fill:#c0392b;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 7,1031.3622 C 5.464466,1031.3622 3.921573,1031.9407 2.75,1033.1122 0.40685502,1035.4554 0.4711943,1039.2065 2.75,1041.6122 L 12,1051.3622 21.25,1041.6122 C 23.528806,1039.2065 23.593145,1035.4554 21.25,1033.1122 18.906854,1030.7691 15.093146,1030.7691 12.75,1033.1122 L 12,1033.8622 11.25,1033.1122 C 10.078427,1031.9407 8.535534,1031.3622 7,1031.3622 z"
-       id="path2984"
+       style="fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 2 4 L 2 17.53125 L 2 20 C 2 21.1046 2.89543 22 4 22 L 8 22 L 16 22 L 22 16 L 22 4 L 2 4 z "
+       transform="translate(0,1028.3622)"
+       id="rect3155" />
+    <path
+       style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 5 9 L 5 10 L 19 10 L 19 9 L 5 9 z M 5 12 L 5 13 L 19 13 L 19 12 L 5 12 z M 5 15 L 5 16 L 12 16 L 12 15 L 5 15 z "
+       transform="translate(0,1028.3622)"
+       id="rect3031" />
+    <path
+       d="M 22,1044.3622 16,1050.3622 16,1046.3622 C 16,1045.2576 16.89543,1044.3622 18,1044.3622 L 22,1044.3622 z"
+       inkscape:connector-curvature="0"
+       id="path2987-80-0"
+       style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 2,1033.3622 2,1032.3622 C 2,1031.2576 2.89543,1030.3622 4,1030.3622 L 8,1030.3622 16,1030.3622 20,1030.3622 C 21.10457,1030.3622 22,1031.2576 22,1032.3622 L 22,1033.3622 2,1033.3622 z"
+       id="rect3155-6"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

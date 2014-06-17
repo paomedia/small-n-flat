@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="27.991457"
-     inkscape:cy="-29.637096"
+     inkscape:zoom="32"
+     inkscape:cx="15.824493"
+     inkscape:cy="9.9246329"
      inkscape:document-units="px"
      inkscape:current-layer="text2993"
      showgrid="true"
@@ -112,20 +112,6 @@
          d="M 7.46875,1042.3622 C 6.370741,1044.0689 5.26686,1045.7831 4.1875,1047.4872 3.502165,1048.6916 4.490691,1050.3524 5.875,1050.3622 7.9053241,1050.3618 9.9369755,1050.3593 11.96875,1050.3622 L 11.96875,1042.3622 7.46875,1042.3622 z"
          id="path2990-9-6-23"
          inkscape:connector-curvature="0" />
-      <rect
-         style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect4081"
-         width="4"
-         height="4.0000172"
-         x="8"
-         y="1030.3622" />
-      <rect
-         style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect4083"
-         width="4"
-         height="4"
-         x="12"
-         y="1030.3622" />
       <path
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#27ae60;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
          d="M 7.453125,1042.3622 C 7.240362,1042.6929 7.041108,1043.0311 6.828125,1043.3622 L 17.109375,1043.3622 C 16.89359,1043.027 16.668392,1042.6978 16.453125,1042.3622 L 7.453125,1042.3622 z"
