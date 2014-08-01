@@ -29,14 +29,14 @@
      id="namedview4623"
      showgrid="true"
      inkscape:zoom="16"
-     inkscape:cx="-1.1465902"
-     inkscape:cy="19.040027"
+     inkscape:cx="35.973959"
+     inkscape:cy="17.673009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-global="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="false">
     <inkscape:grid
@@ -65,21 +65,16 @@
      transform="translate(0,-1028.3622)"
      id="layer1">
     <path
-       sodipodi:type="star"
-       style="fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:#f39c12;stroke-width:0.69754905;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:transform-center-y="-0.94512811"
+       d="M 12,1028.3622 16,1037.3622 24,1038.3622 17.999999,1043.3622 20.000001,1052.3622 12,1047.3622 4,1052.3622 6,1043.3622 0,1038.3622 8,1037.3622 z"
        id="path2997"
-       sodipodi:sides="5"
-       sodipodi:cx="9.5998735"
-       sodipodi:cy="8.3597565"
-       sodipodi:r1="6.9033732"
-       sodipodi:r2="2.6370888"
-       sodipodi:arg1="-1.5707963"
-       sodipodi:arg2="-0.9424778"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="M 9.5998737,1.4563832 11.149915,6.2263068 16.165372,6.226497 12.107894,9.1746617 13.657574,13.944703 9.5998736,10.996845 5.5421724,13.944703 7.0918531,9.1746617 3.0343755,6.2264966 8.0498316,6.2263068 z"
-       transform="matrix(1.4335909,0,0,1.4335909,-1.7602093,1028.9384)"
-       inkscape:transform-center-y="-0.94512811" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 12,1028.3622 8,1037.3622 1.03125,1038.2372 6,1042.3622 5.8125,1043.206 6,1043.3622 4.25,1051.206 12,1046.3622 19.75,1051.206 18,1043.3622 18.1875,1043.206 18,1042.3622 22.96875,1038.2372 16,1037.3622 12,1028.3622 z"
+       id="path2997-0"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
