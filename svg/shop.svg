@@ -7,8 +7,8 @@
    <rect height="9" width="9" y="1039.4" x="4" fill="#ecf0f1"/>
    <rect height="9" width="6" y="1040.4" x="14" fill="#ecf0f1"/>
    <rect height="4" width="20" y="1037.4" x="2" fill="#f39c12"/>
-   <rect height="1" width="6" y="1039.4" x="14" fill="#95a5a6"/>
-   <rect height="2" width="9" y="1039.4" x="4" fill="#95a5a6"/>
+   <rect height="1" width="6" y="1039.4" x="14" fill="#bdc3c7"/>
+   <rect height="2" width="9" y="1039.4" x="4" fill="#bdc3c7"/>
    <path d="m0 1036.4v1.5c0 0.8 0.67157 1.5 1.5 1.5 0.8284 0 1.5-0.7 1.5-1.5v-1.5h-1.5-1.5z" fill="#c0392b"/>
    <path d="m3 1036.4v1.5c0 0.8 0.6716 1.5 1.5 1.5s1.5-0.7 1.5-1.5v-1.5h-1.5-1.5z" fill="#bdc3c7"/>
    <path d="m6 1036.4v1.5c0 0.8 0.6716 1.5 1.5 1.5s1.5-0.7 1.5-1.5v-1.5h-1.5-1.5z" fill="#c0392b"/>
@@ -37,7 +37,7 @@
    <rect height="7" width="1" y="1040.4" x="8"/>
    <path d="m1 1032.4h22l-3.667-2h-14.666l-3.667 2"/>
   </g>
-  <rect transform="translate(0 1028.4)" height="1" width="1" y="12" x="8" fill="#95a5a6"/>
+  <rect transform="translate(0 1028.4)" height="1" width="1" y="12" x="8" fill="#bdc3c7"/>
   <path d="m1 1031.4h22l-3.667-2h-14.666l-3.667 2" fill="#bdc3c7"/>
   <g>
    <rect transform="translate(0 1028.4)" height="1" width="22" y="3" x="1" fill="#7f8c8d"/>
