@@ -14,7 +14,7 @@
    height="24"
    id="svg2"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="box2.svg">
+   sodipodi:docname="carton.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,8 +29,8 @@
      id="namedview3067"
      showgrid="true"
      inkscape:zoom="27.812866"
-     inkscape:cx="20.960868"
-     inkscape:cy="15.144573"
+     inkscape:cx="3.443747"
+     inkscape:cy="7.0810392"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -61,14 +61,14 @@
      transform="translate(0,-1028.3622)"
      id="layer1">
     <path
-       style="fill:#f1c40f;fill-opacity:1;stroke:none"
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
        d="M 4,2 2,7 22,7 20,2 16,2 8,2 z"
        transform="translate(0,1028.3622)"
        id="path3144"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="fill:#e67e22;fill-opacity:1;stroke:none"
+       style="fill:#1abc9c;fill-opacity:1;stroke:none"
        d="M 9,1035.3622 15,1035.3622 14,1030.3622 10,1030.3622 z"
        id="path3926"
        inkscape:connector-curvature="0"
@@ -80,19 +80,56 @@
        inkscape:connector-curvature="0"
        transform="translate(0,1028.3622)" />
     <rect
-       style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3976"
        width="20"
        height="16"
        x="2"
        y="1035.3622" />
+    <path
+       style="fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 5,1045.3622 C 4.447715,1045.3622 4,1045.8099 4,1046.3622 L 4,1048.3622 C 4,1048.9145 4.447715,1049.3622 5,1049.3622 L 11,1049.3622 C 11.552285,1049.3622 12,1048.9145 12,1048.3622 L 12,1046.3622 C 12,1045.8099 11.552285,1045.3622 11,1045.3622 L 5,1045.3622 z"
+       id="path2994"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#16a085;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 9 7 L 9 13 L 9 14 L 10 13 L 11 14 L 12 13 L 13 14 L 14 13 L 15 14 L 15 13 L 15 7 L 9 7 z "
+       transform="translate(0,1028.3622)"
+       id="rect3978" />
     <rect
-       style="fill:#d35400;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect3978"
-       width="6"
-       height="7"
+       style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2990"
+       width="1"
+       height="2"
+       x="5"
+       y="1046.3622" />
+    <rect
+       style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2990-5"
+       width="1"
+       height="2"
+       x="7"
+       y="1046.3622" />
+    <rect
+       style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2990-5-3"
+       width="1"
+       height="2"
        x="9"
-       y="7"
-       transform="translate(0,1028.3622)" />
+       y="1046.3622" />
+    <rect
+       style="fill:#7f8c8d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2990-5-3-9"
+       width="1"
+       height="2"
+       x="10"
+       y="1046.3622" />
+    <rect
+       style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2990-8"
+       width="1"
+       height="2"
+       x="8"
+       y="1046.3622" />
   </g>
 </svg>

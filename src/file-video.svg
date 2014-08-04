@@ -14,7 +14,7 @@
    height="24"
    id="svg2"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="movie-alt-alt.svg">
+   sodipodi:docname="file-video.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,8 +29,8 @@
      id="namedview4321"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="12.802894"
-     inkscape:cy="9.5356337"
+     inkscape:cx="25.302558"
+     inkscape:cy="14.655177"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,9 +71,11 @@
        id="rect3826-4-1-3"
        inkscape:connector-curvature="0" />
     <path
-       d="M 5,22.000001 5.3397454,1.8038473 22.660255,12.196152 z"
+       d="M 5,22.000055 5,1.8038571 22.660255,11.901956 z"
        transform="matrix(0.28312162,0,0,0.29708562,8.5843919,1036.8263)"
        id="path3674"
-       style="fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

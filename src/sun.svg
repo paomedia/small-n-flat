@@ -67,20 +67,11 @@
     <g
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2980b9;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
        id="text2993">
-      <rect
-         style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect2990"
-         width="18"
-         height="17"
-         x="3"
-         y="1032.3622" />
       <path
-         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
-         style="line-height:125%;fill-rule:nonzero;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#f39c12"
-         d="M -735.64717,735.64717 -718.67657,735.64716 -718.6766,752.61773 -735.64717,752.61773 z"
-         id="rect2990-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 12 0 L 8 4 L 3 4 L 3 9 L 0 12 L 3 15 L 3 21 L 9 21 L 12 24 L 15 21 L 21 21 L 21 15 L 24 12 L 21 9 L 21 4 L 16 4 L 12 0 z "
+         transform="translate(0,1028.3622)"
+         id="rect2990" />
       <path
          sodipodi:type="arc"
          style="fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -89,7 +80,7 @@
          sodipodi:cy="13"
          sodipodi:rx="11.5"
          sodipodi:ry="11"
-         d="M 24,13 A 11.5,11 0 1 1 1,13 11.5,11 0 1 1 24,13 z"
+         d="M 24,13 C 24,19.075132 18.851275,24 12.5,24 6.1487254,24 1,19.075132 1,13 1,6.9248678 6.1487254,2 12.5,2 18.851275,2 24,6.9248678 24,13 z"
          transform="matrix(0.7826087,0,0,0.81818313,2.2173913,1029.7258)" />
     </g>
   </g>

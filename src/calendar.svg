@@ -82,21 +82,10 @@
        id="path3201"
        style="fill:#c0392b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
-       d="M 6,1 C 5.4477153,1 5,1.4477153 5,2 L 5,5 C 5,5.5522847 5.4477153,6 6,6 6.5522847,6 7,5.5522847 7,5 L 7,2 C 7,1.4477153 6.5522847,1 6,1 z"
-       inkscape:connector-curvature="0"
-       transform="translate(0,1028.3622)"
-       id="rect3118"
-       style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
        d="M 7,5.5 A 1.5,1.5 0 1 1 4,5.5 1.5,1.5 0 1 1 7,5.5 z"
        transform="translate(12.5,1028.3622)"
        id="path3201-2"
        style="fill:#c0392b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       d="M 18,1029.3622 C 17.447715,1029.3622 17,1029.8099 17,1030.3622 L 17,1033.3622 C 17,1033.9145 17.447715,1034.3622 18,1034.3622 18.552285,1034.3622 19,1033.9145 19,1033.3622 L 19,1030.3622 C 19,1029.8099 18.552285,1029.3622 18,1029.3622 z"
-       inkscape:connector-curvature="0"
-       id="rect3118-9"
-       style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        d="M 5,1039.3622 5,1041.3622 7,1041.3622 7,1039.3622 5,1039.3622 z M 8,1039.3622 8,1041.3622 10,1041.3622 10,1039.3622 8,1039.3622 z M 11,1039.3622 11,1041.3622 13,1041.3622 13,1039.3622 11,1039.3622 z M 14,1039.3622 14,1041.3622 16,1041.3622 16,1039.3622 14,1039.3622 z M 17,1039.3622 17,1041.3622 19,1041.3622 19,1039.3622 17,1039.3622 z"
        inkscape:connector-curvature="0"
@@ -112,5 +101,15 @@
        inkscape:connector-curvature="0"
        id="rect3260-6-1"
        style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 6 1 C 5.4477153 1 5 1.4477153 5 2 L 5 5 C 5 5.5522847 5.4477153 6 6 6 C 6.5522847 6 7 5.5522847 7 5 L 7 2 C 7 1.4477153 6.5522847 1 6 1 z M 18 1 C 17.447715 1 17 1.4477 17 2 L 17 5 C 17 5.5523 17.447715 6 18 6 C 18.552285 6 19 5.5523 19 5 L 19 2 C 19 1.4477 18.552285 1 18 1 z "
+       transform="translate(0,1028.3622)"
+       id="rect3118" />
+    <path
+       style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 6,1029.3622 C 5.4477153,1029.3622 5,1029.8099 5,1030.3622 L 5,1032.3622 7,1032.3622 7,1030.3622 C 7,1029.8099 6.5522847,1029.3622 6,1029.3622 z M 18,1029.3622 C 17.447715,1029.3622 17,1029.8099 17,1030.3622 L 17,1032.3622 19,1032.3622 19,1030.3622 C 19,1029.8099 18.552285,1029.3622 18,1029.3622 z"
+       id="rect3118-6"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -29,8 +29,8 @@
      id="namedview4792"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="12.186645"
-     inkscape:cy="15.060461"
+     inkscape:cx="11.184954"
+     inkscape:cy="9.3474668"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -86,14 +86,9 @@
        transform="translate(0,1028.3622)"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#bdc3c7;fill-opacity:1;stroke:none"
-       d="M 12 8 L 8 12 L 9 13 L 13 9 L 12 8 z M 14 10 L 10 14 L 11 15 L 15 11 L 14 10 z M 16 12 L 12 16 L 13 17 L 17 13 L 16 12 z "
-       transform="translate(0,1028.3622)"
-       id="path4096" />
-    <path
-       style="fill:#95a5a6;fill-opacity:1;stroke:none"
-       d="M 12.5,1036.8622 9,1040.3622 8.5,1039.8622 8,1040.3622 9,1041.3622 13,1037.3622 12.5,1036.8622 z M 14.5,1038.8622 11,1042.3622 10.5,1041.8622 10,1042.3622 11,1043.3622 15,1039.3622 14.5,1038.8622 z M 16.5,1040.8622 13,1044.3622 12.5,1043.8622 12,1044.3622 13,1045.3622 17,1041.3622 16.5,1040.8622 z"
-       id="path4096-9"
+       style="fill:#7f8c8d;fill-opacity:1;stroke:none"
+       d="M 12,1036.3622 8.4999999,1039.8622 7.9999999,1040.3622 8.4999999,1040.8622 12.5,1036.8622 12,1036.3622 z M 14,1038.3622 10.5,1041.8622 10,1042.3622 10.5,1042.8622 14.5,1038.8622 14,1038.3622 z M 16,1040.3622 12.5,1043.8622 12,1044.3622 12.5,1044.8622 16.5,1040.8622 16,1040.3622 z"
+       id="path4096-1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

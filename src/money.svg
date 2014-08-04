@@ -64,14 +64,14 @@
      transform="translate(0,-1028.3622)"
      id="layer1">
     <rect
-       style="fill:#27ae60;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#16a085;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3193-1-9-7"
        width="24"
        height="14"
        x="0"
        y="1031.3622" />
     <rect
-       style="fill:#2ecc71;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#1abc9c;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3193"
        width="24"
        height="14"
@@ -84,7 +84,7 @@
        inkscape:connector-curvature="0" />
     <path
        sodipodi:type="arc"
-       style="fill:#2ecc71;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#1abc9c;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3239"
        sodipodi:cx="12"
        sodipodi:cy="11"
