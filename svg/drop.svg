@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <g transform="translate(0 -1028.4)">
-  <g>
-   <path d="m12 0c-1.066 4.13-2.8083 8.1423-5.375 11.562-2.5026 2.78-2.0177 7.549 0.9062 9.844 1.2394 1.041 2.8608 1.586 4.4688 1.594 1.608-0.008 3.229-0.553 4.469-1.594 2.924-2.295 3.409-7.064 0.906-9.844-2.567-3.4197-4.309-7.432-5.375-11.562z" transform="translate(0 1028.4)" fill="#2980b9"/>
-   <path d="m12.02 1029.3c-0.591 2.9-1.557 5.7-2.9802 8.1-1.3876 1.9-1.1187 5.2 0.5024 6.8 0.6868 0.7 1.5858 1.1 2.4778 1.1 0.891 0 1.79-0.4 2.478-1.1 1.621-1.6 1.89-4.9 0.502-6.8-1.423-2.4-2.389-5.2-2.98-8.1z" fill="#3498db"/>
-  </g>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g style="text-align:end;line-height:125%;-inkscape-font-specification:FontAwesome" font-size="8" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#2980b9" font-family="FontAwesome" transform="translate(0 -1028.362)"><path d="M12 1028.362c-1.066 4.13-2.808 8.142-5.375 11.563-2.503 2.779-2.018 7.549.906 9.844 1.239 1.041 2.861 1.586 4.469 1.594 1.608-.008 3.229-.553 4.469-1.594 2.924-2.295 3.409-7.064.906-9.844-2.567-3.42-4.309-7.433-5.375-11.563z" fill="#2980b9"/><path style="text-align:end;line-height:125%;-inkscape-font-specification:FontAwesome" d="M12.02 1029.319c-.591 2.873-1.557 5.664-2.98 8.043-1.388 1.933-1.119 5.251.502 6.848.687.724 1.586 1.103 2.478 1.109.891-.005 1.791-.385 2.478-1.109 1.621-1.597 1.89-4.915.502-6.848-1.423-2.379-2.389-5.17-2.98-8.043z" font-size="8" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#3498db" font-family="FontAwesome"/></g></svg>
