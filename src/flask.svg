@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="15.824493"
-     inkscape:cy="9.9246329"
+     inkscape:zoom="16"
+     inkscape:cx="2.622137"
+     inkscape:cy="5.2732754"
      inkscape:document-units="px"
      inkscape:current-layer="text2993"
      showgrid="true"
@@ -37,7 +37,7 @@
      inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-midpoints="false">
     <inkscape:grid
        type="xygrid"
@@ -68,54 +68,54 @@
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2980b9;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
        id="text2993">
       <path
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#ecf0f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-         d="M 8.986805,1030.3594 C 8.986805,1032.9636 8.986805,1035.5677 8.986805,1038.1719 7.122941,1041.1042 5.183467,1044.0036 3.361805,1046.9532 2.427467,1048.519 3.353138,1050.771 5.112358,1051.2451 6.377955,1051.4844 7.685729,1051.3027 8.96875,1051.3622 12.136122,1051.3558 15.305758,1051.3995 18.471765,1051.3413 20.516261,1051.1479 21.736419,1048.5075 20.549305,1046.8282 18.736235,1043.9281 16.828118,1041.0636 14.986805,1038.1719 14.986805,1035.5677 14.986805,1032.9636 14.986805,1030.3594 12.986805,1030.3594 10.986805,1030.3594 8.986805,1030.3594 z"
-         id="path2990-9-4"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:type="arc"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2ecc71;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-         id="path4085-8"
-         sodipodi:cx="12"
-         sodipodi:cy="14"
-         sodipodi:rx="2"
-         sodipodi:ry="2"
-         d="M 14,14 C 14,15.104569 13.104569,16 12,16 10.895431,16 10,15.104569 10,14 10,12.895431 10.895431,12 12,12 13.104569,12 14,12.895431 14,14 z"
-         transform="matrix(0.75,0,0,0.75,5.5,1032.3622)" />
-      <path
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-         d="M 9,1030.3622 9,1038.1747 C 7.136136,1041.107 5.196662,1044.0064 3.375,1046.956 2.440662,1048.5218 3.36578,1050.7631 5.125,1051.2372 6.390597,1051.4765 7.685729,1051.3027 8.96875,1051.3622 9.968973,1051.3602 10.968261,1051.359 11.96875,1051.3622 L 11.96875,1030.3622 9,1030.3622 z"
-         id="path2990-9-4-7"
+         style="fill:#ecf0f1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         d="M 9,1030.3622 15,1030.3622 15,1038.3622 22,1049.3622 20,1051.3622 4,1051.3622 2,1049.3622 9,1038.3622 z"
+         id="path2992"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:type="arc"
          style="fill:#2ecc71;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path4085"
-         sodipodi:cx="12"
-         sodipodi:cy="14"
+         id="path3851"
+         sodipodi:cx="15.5"
+         sodipodi:cy="15.5"
+         sodipodi:rx="1.5"
+         sodipodi:ry="1.5"
+         d="M 17,15.5 A 1.5,1.5 0 1 1 14,15.5 1.5,1.5 0 1 1 17,15.5 z"
+         transform="translate(-0.5,1028.3622)" />
+      <path
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bdc3c7;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         d="M 12,1030.3622 12,1051.3622 4,1051.3622 2,1049.3622 9,1038.3622 9,1030.3622 12,1030.3622 z"
+         id="path2992-8"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#2ecc71;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3849"
+         sodipodi:cx="30"
+         sodipodi:cy="10"
          sodipodi:rx="2"
          sodipodi:ry="2"
-         d="M 14,14 C 14,15.104569 13.104569,16 12,16 10.895431,16 10,15.104569 10,14 10,12.895431 10.895431,12 12,12 13.104569,12 14,12.895431 14,14 z"
-         transform="translate(-1,1028.3622)" />
+         d="M 32,10 A 2,2 0 1 1 28,10 2,2 0 1 1 32,10 z"
+         transform="translate(-19,1033.3622)" />
       <path
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2ecc71;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-         d="M 7.4729477,1042.3525 C 6.3749377,1044.0592 5.2710567,1045.7734 4.1916977,1047.4775 3.5063617,1048.6819 4.4948877,1050.3427 5.8791977,1050.3525 9.981493,1050.3517 14.08989,1050.3748 18.191697,1050.3525 19.587936,1050.2783 20.46565,1048.4997 19.691697,1047.3525 18.621453,1045.6838 17.543191,1044.0211 16.472947,1042.3525 L 7.4729477,1042.3525 z"
-         id="path2990-9-6"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#27ae60;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         d="M 5,1050.3622 C 10,1050.3622 15,1050.3622 20,1050.3622 20.333333,1050.0289 20.666667,1049.6955 21,1049.3622 19.666667,1047.3622 18.333333,1045.3622 17,1043.3622 13.666667,1043.3622 10.333333,1043.3622 7,1043.3622 5.666667,1045.3622 4.333333,1047.3622 3,1049.3622 3.333333,1049.6955 3.666667,1050.0289 4,1050.3622 4.333333,1050.3622 4.666667,1050.3622 5,1050.3622 z"
+         id="path3804-7"
          inkscape:connector-curvature="0" />
       <path
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-         d="M 20.9375,1047.7997 C 20.741675,1049.0591 19.799435,1050.2051 18.46875,1050.331 15.302743,1050.3892 12.136122,1050.3558 8.96875,1050.3622 7.685729,1050.3027 6.390597,1050.4765 5.125,1050.2372 4.035169,1049.9435 3.237249,1048.966 3.03125,1047.8935 2.810868,1049.3037 3.69644,1050.8522 5.125,1051.2372 6.390597,1051.4765 7.685729,1051.3027 8.96875,1051.3622 12.136122,1051.3558 15.302743,1051.3892 18.46875,1051.331 20.152453,1051.1717 21.256028,1049.3746 20.9375,1047.7997 z"
-         id="path2990-9-4-2"
+         style="fill:#2ecc71;fill-opacity:1;stroke:none"
+         d="M 17,1043.3622 21,1049.3622 C 20.666667,1049.6955 20.333333,1050.0289 20,1050.3622 L 19,1050.3622 12,1050.3622 12,1043.3622 17,1043.3622 z"
+         id="path3804"
          inkscape:connector-curvature="0" />
       <path
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#27ae60;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-         d="M 7.46875,1042.3622 C 6.370741,1044.0689 5.26686,1045.7831 4.1875,1047.4872 3.502165,1048.6916 4.490691,1050.3524 5.875,1050.3622 7.9053241,1050.3618 9.9369755,1050.3593 11.96875,1050.3622 L 11.96875,1042.3622 7.46875,1042.3622 z"
-         id="path2990-9-6-23"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#27ae60;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         d="M 7,1043.3622 6.34375,1044.3622 17.65625,1044.3622 17,1043.3622 7,1043.3622 z"
+         id="path3804-7-6"
          inkscape:connector-curvature="0" />
       <path
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#27ae60;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-         d="M 7.453125,1042.3622 C 7.240362,1042.6929 7.041108,1043.0311 6.828125,1043.3622 L 17.109375,1043.3622 C 16.89359,1043.027 16.668392,1042.6978 16.453125,1042.3622 L 7.453125,1042.3622 z"
-         id="path2990-9-6-2"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bdc3c7;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+         d="M 3,1050.3622 4,1051.3622 20,1051.3622 21,1050.3622 3,1050.3622 z"
+         id="path2992-9"
          inkscape:connector-curvature="0" />
     </g>
   </g>

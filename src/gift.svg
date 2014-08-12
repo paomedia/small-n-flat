@@ -110,5 +110,20 @@
        height="1"
        x="9"
        y="1050.3622" />
+    <rect
+       style="fill:#e67e22;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2991"
+       width="8"
+       height="1"
+       x="1"
+       y="10"
+       transform="translate(0,1028.3622)" />
+    <rect
+       style="fill:#e67e22;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2991-1"
+       width="8"
+       height="1"
+       x="15"
+       y="1038.3622" />
   </g>
 </svg>

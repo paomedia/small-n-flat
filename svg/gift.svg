@@ -9,5 +9,7 @@
   <rect height="3" width="22" y="1038.4" x="1" fill="#f39c12"/>
   <rect height="3" width="6" y="1038.4" x="9" fill="#c0392b"/>
   <rect height="1" width="6" y="1050.4" x="9" fill="#c0392b"/>
+  <rect transform="translate(0 1028.4)" height="1" width="8" y="10" x="1" fill="#e67e22"/>
+  <rect height="1" width="8" y="1038.4" x="15" fill="#e67e22"/>
  </g>
 </svg>
