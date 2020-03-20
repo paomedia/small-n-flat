@@ -59,7 +59,7 @@ function initLastRelease(releases)
 	cache: true,
 	jsonp: false,
 	jsonpCallback: 'printIcons',
-	url: 'http://cdn.rawgit.com/' + SNF_REPO + '/' + SNF_VERSION + '/concat.js'
+	url: 'https://cdn.rawgit.com/' + SNF_REPO + '/' + SNF_VERSION + '/concat.js'
     });
 }
 
